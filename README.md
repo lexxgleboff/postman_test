@@ -90,31 +90,31 @@ Response Body
 GET https://blog.kata.academy/api/user
 
 200
-84 ms
+265 ms
 Network
 Request Headers
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzNjI2ZTk2OGRiNWU1MWIwMDRlOTg2YyIsInVzZXJuYW1lIjoiYWxleHhnbGViIiwiZXhwIjoxNjcyNTc5MjM3LCJpYXQiOjE2NjczOTUyMzd9.TNcFz1lVOGA4EDfFtyeRLHEsSeo9B4v29NeHKHUL8AE
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzNjI2ZTk2OGRiNWU1MWIwMDRlOTg2YyIsInVzZXJuYW1lIjoiYWxleHhnbGViIiwiZXhwIjoxNjcyNTc5MjIyLCJpYXQiOjE2NjczOTUyMjJ9.d3KQc4L1neMscS9GL0PbQWVYWRW5_ezgVnuFU7UJxdA
 User-Agent: PostmanRuntime/7.29.2
 Accept: */*
-Postman-Token: 43959e7a-71a5-486b-a3ef-46ca31cd97bf
+Postman-Token: 357b2322-cd31-4ad3-a494-483324b5f48c
 Host: blog.kata.academy
 Accept-Encoding: gzip, deflate, br
 Connection: keep-alive
 Response Headers
 Server: nginx/1.18.0 (Ubuntu)
-Date: Wed, 02 Nov 2022 13:21:00 GMT
+Date: Wed, 02 Nov 2022 14:44:43 GMT
 Content-Type: application/json; charset=utf-8
 Content-Length: 274
 Connection: keep-alive
 X-Powered-By: Express
 Access-Control-Allow-Origin: *
-ETag: W/"112-yHNYly0gfZvqxOJIy29q+g"
+ETag: W/"112-4nCsLSu4mIjWo5uYXdvSvw"
 Response Body
 {
     "user": {
         "username": "alexxgleb",
         "email": "alexgleb@gmail.com",
-        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzNjI2ZTk2OGRiNWU1MWIwMDRlOTg2YyIsInVzZXJuYW1lIjoiYWxleHhnbGViIiwiZXhwIjoxNjcyNTc5MjYwLCJpYXQiOjE2NjczOTUyNjB9.SKgAy7bClN_y6cnFKvsjzGNpWDcvadpXAcJXFI896Q8"
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzNjI2ZTk2OGRiNWU1MWIwMDRlOTg2YyIsInVzZXJuYW1lIjoiYWxleHhnbGViIiwiZXhwIjoxNjcyNTg0MjgzLCJpYXQiOjE2Njc0MDAyODN9.2OimAfK8rPYRXAnBXKE2XrCY32Ouwuvgk9PlMKGCD9I"
     }
 }
 ```
